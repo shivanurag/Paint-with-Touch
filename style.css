@@ -1,0 +1,26 @@
+.body_background{
+    background-image: url("87716423.jpg.crdownload");
+    background-size:cover;
+    background-position:center;
+}
+#Touch_canvas{
+    background-color: rgb(255, 255, 255);
+    border-width: 10px;
+    border-style:outset;
+}
+
+body{
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bolder;
+    color:white;
+}
+
+button{
+    height: 40;
+    width: 80;
+    background-color: aquamarine;
+}
+
+
+
